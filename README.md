@@ -5,6 +5,7 @@
 <h2><b>To-Do List App</b></h2>
 <b>Objective:</b> Create an app that allows users to manage their
 daily tasks.
+
 <b>Key Steps:</b>
 Design the app's UI with screens for task creation, viewing, and editing.
 Implement a local database (e.g., Room) to store tasks.
