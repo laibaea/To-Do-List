@@ -1,8 +1,8 @@
 # todo
 
-DEN Internship Flutter project.
+<h3>DEN Internship Flutter project.</h3>
 
-<h3><b>To-Do List App</b></h3>
+<h2><b>To-Do List App</b></h2>
 <b>Objective:</b> Create an app that allows users to manage their
 daily tasks.
 <b>Key Steps:</b>
