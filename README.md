@@ -8,7 +8,7 @@ daily tasks.
 
 <b>Key Steps:</b>
 Design the app's UI with screens for task creation, viewing, and editing.
-Implement a local database (e.g., Room) to store tasks.
+Implement a local database (I used SQFLITE) to store tasks.
 Enable CRUD operations for tasks.
 Add features like task categorization, due dates, and reminders.
 Test the app thoroughly to ensure all features work as expected.
