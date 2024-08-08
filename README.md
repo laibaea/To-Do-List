@@ -1,12 +1,28 @@
 # todo
 
-A new Flutter project.
+DEN Internship Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
+
+C:\Users\LAIBA\DEPMAD\todo\lib\screens\home_screen  or \task_screen
+C:\Users\LAIBA\DEPMAD\todo\lib\models\task
+C:\Users\LAIBA\DEPMAD\todo\lib\db_helper
+C:\Users\LAIBA\DEPMAD\todo\lib\main
+
+To-Do List App
+Objective: Create an app that allows users to manage their
+daily tasks.
+Key Steps:
+Design the app's UI with screens for task creation,
+viewing, and editing.
+Implement a local database (e.g., Room) to store tasks.
+Enable CRUD operations for tasks.
+Add features like task categorization, due dates, and
+reminders.
+Test the app thoroughly to ensure all features work as
+expected.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
